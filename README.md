@@ -27,8 +27,9 @@ Because this app relies on a relational database, you must configure your local 
 1. Open XAMPP and start the **Apache** and **MySQL** modules.
 2. Click **Admin** next to MySQL to open phpMyAdmin.
 3. Create a new database named `rigtracker_db`.
-4. Click the **SQL** tab and run the following master setup script to create the relational tables:
-5.just run setup.py
+4. Click the **SQL** tab and run the following master setup script to create the relational table
+5. just run setup.py
+
 
 ```sql
 -- Create the Builds table
